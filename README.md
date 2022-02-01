@@ -1,6 +1,11 @@
 # mac-dog-facts
-Stupidly simple dog facts desktop app
 
-Created in Unity 3D
+Stupidly simple desktop app created in Unity 3D. Press 'Woof' to get a random dog fact.
 
-Download and launch mac app located in the `mac-app` directory
+## Mac build
+
+Download the repo and launch mac app located in the `mac-app` directory
+
+## Unity assets
+
+Can be found within `/Assets` directory
